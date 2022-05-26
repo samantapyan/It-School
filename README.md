@@ -3,4 +3,4 @@ Langing Page for IT school
 
 Using Html/Css, carousel library
 
-Live url: https://samantapyan.github.io/snakeGame/
+Live url: https://samantapyan.github.io/It-School/
